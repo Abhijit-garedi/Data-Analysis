@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Friendly Multi Store — Sales & Marketing Analysis Dashboard
 
 A Python dashboard built with **Streamlit, Pandas and Plotly**, styled to match the internship dashboard screenshots.
@@ -58,3 +59,8 @@ git push -u origin main
 ```
 
 Replace the remote URL with your own GitHub repository URL.
+=======
+# Data-Analysis
+
+Using python doing data analysis .
+>>>>>>> fac0a04df30422aec28c0966883b1804b06767d0
