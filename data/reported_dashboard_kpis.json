@@ -1,0 +1,12 @@
+{
+  "total_sales_npr": 128550,
+  "total_orders": 78,
+  "quantity_sold": 402,
+  "unique_customers": 56,
+  "average_order_value_npr": 1648,
+  "sales_per_customer_npr": 2296,
+  "top_product_share_pct": 48.3,
+  "units_per_order": 5.15,
+  "period": "01 Jun \u2013 17 Jun 2026",
+  "source_note": "These summary figures are transcribed from the dashboard screenshots supplied by the user. They are not recalculated from the 35-row campaign transaction PDF."
+}
